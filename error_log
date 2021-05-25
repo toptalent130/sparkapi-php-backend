@@ -1,0 +1,1 @@
+[02-Oct-2019 14:30:02 UTC] PHP Warning:  fopen(/apiclient/debug.txt): failed to open stream: No such file or directory in /home/homein27/public_html/apiclient/_initialization.php on line 37

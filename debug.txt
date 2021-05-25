@@ -1,0 +1,1198 @@
+Array
+(
+    [D] => Array
+        (
+            [Results] => Array
+                (
+                    [0] => Array
+                        (
+                            [AuthToken] => 9084ccc6c9b0cac50bbc3a63789f6c18
+                            [Expires] => 2021-05-26T16:04:48-05:00
+                            [Roles] => Array
+                                (
+                                    [0] => idx
+                                )
+
+                        )
+
+                )
+
+            [Success] => 1
+        )
+
+)
+Array
+(
+    [D] => Array
+        (
+            [Results] => Array
+                (
+                    [0] => Array
+                        (
+                            [Id] => 20210405184841802635000000
+                            [ResourceUri] => /v1/listings/20210405184841802635000000
+                            [StandardFields] => Array
+                                (
+                                    [AboveGradeFinishedArea] => 
+                                    [AboveGradeFinishedAreaSource] => 
+                                    [AboveGradeFinishedAreaUnits] => 
+                                    [AccessCode] => 
+                                    [AccessibilityFeatures] => ********
+                                    [ActiveUnderContractTimestamp] => 
+                                    [AdditionalParcelsDescription] => 
+                                    [AdditionalParcelsYN] => 
+                                    [AnchorsCoTenants] => 
+                                    [ApprovalStatus] => 1
+                                    [ArchitecturalStyle] => Array
+                                        (
+                                            [1 Level] => 1
+                                        )
+
+                                    [AssociationAmenities] => ********
+                                    [AssociationFee] => ********
+                                    [AssociationFee2] => 
+                                    [AssociationFee2Frequency] => 
+                                    [AssociationFeeFrequency] => ********
+                                    [AssociationFeeIncludes] => ********
+                                    [AssociationName] => 
+                                    [AssociationName2] => 
+                                    [AssociationPhone] => 
+                                    [AssociationPhone2] => 
+                                    [AssociationYN] => ********
+                                    [AttachedGarageYN] => ********
+                                    [AvailabilityDate] => 
+                                    [BackOnMarketTimestamp] => 
+                                    [Basement] => ********
+                                    [BathroomsOneQuarter] => ********
+                                    [BathroomsPartial] => ********
+                                    [BathroomsTotalDecimal] => 2
+                                    [BathroomsTotalInteger] => 2
+                                    [BathroomsTotalNotational] => 2
+                                    [BathsFull] => 2
+                                    [BathsHalf] => 0
+                                    [BathsOneQuarter] => ********
+                                    [BathsThreeQuarter] => ********
+                                    [BathsTotal] => 2
+                                    [BedroomsPossible] => 
+                                    [BedsTotal] => 2
+                                    [BelowGradeFinishedArea] => 
+                                    [BelowGradeFinishedAreaSource] => 
+                                    [BelowGradeFinishedAreaUnits] => 
+                                    [BodyType] => ********
+                                    [BoxNumber] => 
+                                    [BuilderModel] => 
+                                    [BuilderName] => 
+                                    [BuildingAreaSource] => 
+                                    [BuildingAreaTotal] => 1710.84
+                                    [BuildingAreaUnits] => 
+                                    [BuildingFeatures] => 
+                                    [BuildingName] => 
+                                    [BusinessName] => 
+                                    [BusinessType] => ********
+                                    [BuyerAgencyCompensation] => ********
+                                    [BuyerAgencyCompensationType] => 
+                                    [BuyerAgentAOR] => 
+                                    [BuyerAgentAssociation] => Array
+                                        (
+                                        )
+
+                                    [BuyerAgentCellPhone] => ********
+                                    [BuyerAgentDesignation] => ********
+                                    [BuyerAgentDesignationList] => ********
+                                    [BuyerAgentDirectPhone] => ********
+                                    [BuyerAgentEmail] => ********
+                                    [BuyerAgentFax] => ********
+                                    [BuyerAgentFirstName] => ********
+                                    [BuyerAgentHomePhone] => 
+                                    [BuyerAgentId] => 
+                                    [BuyerAgentKey] => 
+                                    [BuyerAgentKeyNumeric] => 
+                                    [BuyerAgentLastName] => ********
+                                    [BuyerAgentMiddleName] => ********
+                                    [BuyerAgentMlsId] => 
+                                    [BuyerAgentName] => ********
+                                    [BuyerAgentNamePrefix] => 
+                                    [BuyerAgentNameSuffix] => 
+                                    [BuyerAgentNrdsId] => ********
+                                    [BuyerAgentOfficePhone] => ********
+                                    [BuyerAgentOfficePhoneExt] => ********
+                                    [BuyerAgentPager] => ********
+                                    [BuyerAgentPreferredPhone] => ********
+                                    [BuyerAgentPreferredPhoneExt] => ********
+                                    [BuyerAgentStateLicense] => ********
+                                    [BuyerAgentTollFreePhone] => ********
+                                    [BuyerAgentURL] => ********
+                                    [BuyerAgentUserType] => ********
+                                    [BuyerAgentVoiceMail] => ********
+                                    [BuyerAgentVoiceMailExt] => ********
+                                    [BuyerCompanyId] => ********
+                                    [BuyerFinancing] => 
+                                    [BuyerOfficeAOR] => 
+                                    [BuyerOfficeEmail] => ********
+                                    [BuyerOfficeFax] => ********
+                                    [BuyerOfficeId] => 
+                                    [BuyerOfficeKey] => 
+                                    [BuyerOfficeKeyNumeric] => 
+                                    [BuyerOfficeMlsId] => 
+                                    [BuyerOfficeName] => ********
+                                    [BuyerOfficeNrdsId] => ********
+                                    [BuyerOfficePhone] => ********
+                                    [BuyerOfficePhoneExt] => ********
+                                    [BuyerOfficeURL] => ********
+                                    [BuyerOfficeUserType] => ********
+                                    [BuyerTeamKey] => ********
+                                    [BuyerTeamKeyNumeric] => 
+                                    [BuyerTeamName] => ********
+                                    [CAPRate] => 
+                                    [CableTvExpense] => 
+                                    [CancelDate] => ********
+                                    [CanceledTimestamp] => 
+                                    [CarportSpaces] => ********
+                                    [CarportYN] => 
+                                    [CarrierRoute] => 
+                                    [City] => Puerto Vallarta
+                                    [CityRegion] => 
+                                    [CloseDate] => ********
+                                    [ClosePrice] => ********
+                                    [ClosedTimestamp] => 
+                                    [ClosingTerms] => 
+                                    [CoBuyerAgentAOR] => ********
+                                    [CoBuyerAgentCellPhone] => ********
+                                    [CoBuyerAgentDesignation] => ********
+                                    [CoBuyerAgentDesignationList] => ********
+                                    [CoBuyerAgentDirectPhone] => ********
+                                    [CoBuyerAgentEmail] => ********
+                                    [CoBuyerAgentFax] => ********
+                                    [CoBuyerAgentFirstName] => ********
+                                    [CoBuyerAgentHomePhone] => 
+                                    [CoBuyerAgentId] => ********
+                                    [CoBuyerAgentKey] => 
+                                    [CoBuyerAgentKeyNumeric] => 
+                                    [CoBuyerAgentLastName] => ********
+                                    [CoBuyerAgentMiddleName] => ********
+                                    [CoBuyerAgentMlsId] => ********
+                                    [CoBuyerAgentName] => ********
+                                    [CoBuyerAgentNamePrefix] => 
+                                    [CoBuyerAgentNameSuffix] => 
+                                    [CoBuyerAgentNrdsId] => ********
+                                    [CoBuyerAgentOfficePhone] => ********
+                                    [CoBuyerAgentOfficePhoneExt] => ********
+                                    [CoBuyerAgentPager] => ********
+                                    [CoBuyerAgentPreferredPhone] => ********
+                                    [CoBuyerAgentPreferredPhoneExt] => ********
+                                    [CoBuyerAgentStateLicense] => ********
+                                    [CoBuyerAgentTollFreePhone] => ********
+                                    [CoBuyerAgentURL] => ********
+                                    [CoBuyerAgentVoiceMail] => ********
+                                    [CoBuyerAgentVoiceMailExt] => ********
+                                    [CoBuyerCompanyId] => ********
+                                    [CoBuyerOfficeAOR] => ********
+                                    [CoBuyerOfficeEmail] => ********
+                                    [CoBuyerOfficeFax] => ********
+                                    [CoBuyerOfficeId] => ********
+                                    [CoBuyerOfficeKey] => 
+                                    [CoBuyerOfficeKeyNumeric] => 
+                                    [CoBuyerOfficeMlsId] => ********
+                                    [CoBuyerOfficeName] => ********
+                                    [CoBuyerOfficeNrdsId] => ********
+                                    [CoBuyerOfficePhone] => ********
+                                    [CoBuyerOfficePhoneExt] => ********
+                                    [CoBuyerOfficeURL] => ********
+                                    [CoListAgentAOR] => 
+                                    [CoListAgentCellPhone] => ********
+                                    [CoListAgentDesignation] => ********
+                                    [CoListAgentDesignationList] => ********
+                                    [CoListAgentDirectPhone] => 
+                                    [CoListAgentEmail] => 
+                                    [CoListAgentFax] => ********
+                                    [CoListAgentFirstName] => 
+                                    [CoListAgentHomePhone] => 
+                                    [CoListAgentId] => 
+                                    [CoListAgentKey] => 
+                                    [CoListAgentKeyNumeric] => 
+                                    [CoListAgentLastName] => 
+                                    [CoListAgentMiddleName] => ********
+                                    [CoListAgentMlsId] => 
+                                    [CoListAgentName] => 
+                                    [CoListAgentNamePrefix] => 
+                                    [CoListAgentNameSuffix] => 
+                                    [CoListAgentNrdsId] => ********
+                                    [CoListAgentOfficePhone] => ********
+                                    [CoListAgentOfficePhoneExt] => ********
+                                    [CoListAgentPager] => ********
+                                    [CoListAgentPreferredPhone] => 
+                                    [CoListAgentPreferredPhoneExt] => ********
+                                    [CoListAgentStateLicense] => ********
+                                    [CoListAgentTollFreePhone] => ********
+                                    [CoListAgentURL] => 
+                                    [CoListAgentVoiceMail] => ********
+                                    [CoListAgentVoiceMailExt] => ********
+                                    [CoListCompanyId] => ********
+                                    [CoListOfficeAOR] => 
+                                    [CoListOfficeEmail] => ********
+                                    [CoListOfficeFax] => ********
+                                    [CoListOfficeId] => 
+                                    [CoListOfficeKey] => 
+                                    [CoListOfficeKeyNumeric] => 
+                                    [CoListOfficeMlsId] => 
+                                    [CoListOfficeName] => 
+                                    [CoListOfficeNrdsId] => ********
+                                    [CoListOfficePhone] => ********
+                                    [CoListOfficePhoneExt] => ********
+                                    [CoListOfficeURL] => ********
+                                    [ComingSoonTimestamp] => 
+                                    [CommonWalls] => 
+                                    [CommunityFeatures] => 
+                                    [Concessions] => 
+                                    [ConcessionsAmount] => 
+                                    [ConcessionsComments] => 
+                                    [ConstructionMaterials] => ********
+                                    [ContinentRegion] => 
+                                    [Contingency] => ********
+                                    [ContingencyCode] => 
+                                    [ContingencyRemarks] => ********
+                                    [ContingentDate] => 
+                                    [ContingentTimestamp] => 
+                                    [Cooling] => ********
+                                    [CoolingFuel] => 
+                                    [CoolingYN] => ********
+                                    [CopyrightNotice] => ********
+                                    [Country] => 
+                                    [CountryRegion] => 
+                                    [CountyOrParish] => ********
+                                    [CoveredSpaces] => 
+                                    [CropsIncludedYN] => 
+                                    [CrossStreet] => 
+                                    [CultivatedArea] => 
+                                    [CurrentFinancing] => 
+                                    [CurrentPrice] => 248000
+                                    [CurrentPricePublic] => 248000
+                                    [CurrentUse] => ********
+                                    [DOH1] => 
+                                    [DOH2] => 
+                                    [DOH3] => 
+                                    [DetachedYN] => 
+                                    [DevelopmentStatus] => 
+                                    [DirectionFaces] => ********
+                                    [Directions] => ********
+                                    [DisabilityFeatures] => 
+                                    [Disclaimer] => ********
+                                    [Disclosures] => 
+                                    [DistanceFromSchoolBus] => 
+                                    [DistanceFromShopping] => 
+                                    [DistanceToBus] => 
+                                    [DistanceToBusComments] => 
+                                    [DistanceToBusNumeric] => 
+                                    [DistanceToBusUnits] => 
+                                    [DistanceToElectric] => 
+                                    [DistanceToElectricComments] => 
+                                    [DistanceToElectricNumeric] => 
+                                    [DistanceToElectricUnits] => 
+                                    [DistanceToFreeway] => 
+                                    [DistanceToFreewayComments] => 
+                                    [DistanceToFreewayNumeric] => 
+                                    [DistanceToFreewayUnits] => 
+                                    [DistanceToGas] => 
+                                    [DistanceToGasComments] => 
+                                    [DistanceToGasNumeric] => 
+                                    [DistanceToGasUnits] => 
+                                    [DistanceToPhoneService] => 
+                                    [DistanceToPhoneServiceComments] => 
+                                    [DistanceToPlaceofWorship] => 
+                                    [DistanceToPlaceofWorshipComments] => 
+                                    [DistanceToPlaceofWorshipNumeric] => 
+                                    [DistanceToPlaceofWorshipUnits] => 
+                                    [DistanceToSchoolBusComments] => 
+                                    [DistanceToSchoolBusNumeric] => 
+                                    [DistanceToSchoolBusUnits] => 
+                                    [DistanceToSchools] => 
+                                    [DistanceToSchoolsComments] => 
+                                    [DistanceToSchoolsNumeric] => 
+                                    [DistanceToSchoolsUnits] => 
+                                    [DistanceToSewer] => 
+                                    [DistanceToSewerComments] => 
+                                    [DistanceToSewerNumeric] => 
+                                    [DistanceToSewerUnits] => 
+                                    [DistanceToShoppingComments] => 
+                                    [DistanceToShoppingNumeric] => 
+                                    [DistanceToShoppingUnits] => 
+                                    [DistanceToStreet] => 
+                                    [DistanceToStreetComments] => 
+                                    [DistanceToStreetUnits] => 
+                                    [DistanceToWater] => 
+                                    [DistanceToWaterComments] => 
+                                    [DistanceToWaterNumeric] => 
+                                    [DistanceToWaterUnits] => 
+                                    [DistrictElementarySchool] => 
+                                    [DistrictHighSchool] => 
+                                    [DistrictMiddleOrJuniorSchool] => 
+                                    [DocumentsAvailable] => ********
+                                    [DocumentsChangeTimestamp] => ********
+                                    [DocumentsCount] => 0
+                                    [DoorFeatures] => 
+                                    [DualVariableCompensationYN] => 
+                                    [Electric] => ********
+                                    [ElectricExpense] => 
+                                    [ElectricOnPropertyYN] => 
+                                    [ElementarySchool] => ********
+                                    [ElementarySchoolDistrict] => ********
+                                    [Elevation] => 
+                                    [ElevationUnits] => 
+                                    [EnergySavingFeatures] => 
+                                    [EntryLevel] => 
+                                    [EntryLocation] => 
+                                    [Exclusions] => 
+                                    [ExistingLeaseType] => 
+                                    [ExpiredTimestamp] => 
+                                    [ExtensionTimestamp] => 
+                                    [ExteriorFeatures] => ********
+                                    [FarmCreditServiceInclYN] => 
+                                    [FarmLandAreaSource] => 
+                                    [FarmLandAreaUnits] => 
+                                    [Fencing] => ********
+                                    [FinancialDataSource] => 
+                                    [FireplaceFeatures] => ********
+                                    [FireplaceFuel] => 
+                                    [FireplaceLocations] => 
+                                    [FireplaceYN] => ********
+                                    [FireplacesTotal] => ********
+                                    [Flooring] => ********
+                                    [FoundationArea] => 
+                                    [FoundationDetails] => ********
+                                    [FrontageLength] => 
+                                    [FrontageLengthUnits] => 
+                                    [FrontageType] => 
+                                    [Furnished] => 
+                                    [FurnitureReplacementExpense] => 
+                                    [GarageSpaces] => ********
+                                    [GarageYN] => 
+                                    [GardnerExpense] => 
+                                    [Gas] => 
+                                    [GasExpense] => 
+                                    [GeocodeAccuracy] => 
+                                    [GeocodeSource] => 
+                                    [GrazingPermitsBLMYN] => 
+                                    [GrazingPermitsForestServiceYN] => 
+                                    [GrazingPermitsPrivateYN] => 
+                                    [GreenBuildingCertification] => 
+                                    [GreenCertificationRating] => 
+                                    [GreenCertifyingBody] => 
+                                    [GreenEnergyEfficient] => 
+                                    [GreenEnergyGeneration] => 
+                                    [GreenIndoorAirQuality] => 
+                                    [GreenLocation] => 
+                                    [GreenSustainability] => 
+                                    [GreenWaterConservation] => 
+                                    [GreenYearCertified] => 
+                                    [GrossIncome] => 
+                                    [GrossScheduledIncome] => 
+                                    [HabitableResidenceYN] => 
+                                    [Heating] => ********
+                                    [HeatingFuel] => 
+                                    [HeatingYN] => ********
+                                    [HighSchool] => ********
+                                    [HighSchoolDistrict] => 
+                                    [HoldDate] => ********
+                                    [HoldTimestamp] => ********
+                                    [HomeWarrantyYN] => 
+                                    [HorseAmenities] => 
+                                    [HorseYN] => 
+                                    [HoursDaysOfOperation] => 
+                                    [HoursDaysofOperationDescription] => 
+                                    [IDXParticipant] => 1
+                                    [Inclusions] => ********
+                                    [IncomeIncludes] => 
+                                    [InsuranceExpense] => 
+                                    [InteriorFeatures] => ********
+                                    [IrrigationSource] => 
+                                    [IrrigationWaterRightsAcres] => 
+                                    [IrrigationWaterRightsYN] => 
+                                    [KitchenAppliances] => 
+                                    [LaborInformation] => 
+                                    [LandLeaseExpirationDate] => 
+                                    [LandLeaseExpirationTimestamp] => 
+                                    [LandLeaseFee] => 
+                                    [LandLeaseFeeFrequency] => 
+                                    [LandLeaseYN] => 
+                                    [Latitude] => 20.646632
+                                    [LaundryFeatures] => ********
+                                    [LeasableArea] => 
+                                    [LeasableAreaUnits] => 
+                                    [LeaseAmount] => 
+                                    [LeaseAmountFrequency] => 
+                                    [LeaseAssignableYN] => 
+                                    [LeaseConsideredYN] => 
+                                    [LeaseExpiration] => 
+                                    [LeaseRenewalCompensation] => 
+                                    [LeaseRenewalOptionYN] => 
+                                    [LeaseTerm] => 
+                                    [Levels] => ********
+                                    [License1] => 
+                                    [License2] => 
+                                    [License3] => 
+                                    [LicensesExpense] => 
+                                    [ListAOR] => 
+                                    [ListAgentAOR] => AMPI Riviera Nayarita
+                                    [ListAgentAssociation] => Array
+                                        (
+                                            [AMPI Riviera Nayarita] => 1
+                                        )
+
+                                    [ListAgentDesignation] => ********
+                                    [ListAgentDesignationList] => ********
+                                    [ListAgentHomePhone] => 
+                                    [ListAgentId] => 20190808180213886242000000
+                                    [ListAgentKey] => ********
+                                    [ListAgentKeyNumeric] => 
+                                    [ListAgentMlsId] => fuentest
+                                    [ListAgentName] => Osmar René Fuentes de la Torre
+                                    [ListAgentNamePrefix] => 
+                                    [ListAgentNameSuffix] => 
+                                    [ListAgentNrdsId] => ********
+                                    [ListAgentUserType] => ********
+                                    [ListCompanyId] => ********
+                                    [ListOfficeAOR] => 
+                                    [ListOfficeId] => 20180323212122021937000000
+                                    [ListOfficeKey] => 
+                                    [ListOfficeKeyNumeric] => 
+                                    [ListOfficeMlsId] => Seasides
+                                    [ListOfficeNrdsId] => ********
+                                    [ListOfficeUserType] => ********
+                                    [ListPrice] => 248000
+                                    [ListPriceCurrency] => 
+                                    [ListPriceHigh] => 
+                                    [ListPriceLow] => 
+                                    [ListTeamKey] => ********
+                                    [ListTeamKeyNumeric] => 
+                                    [ListTeamName] => ********
+                                    [ListingAgreement] => 
+                                    [ListingContractDate] => 2020-04-10
+                                    [ListingFinancing] => 
+                                    [ListingId] => 20524
+                                    [ListingKey] => 20210405184841802635000000
+                                    [ListingNumber] => 20524
+                                    [ListingPrefix] => ********
+                                    [ListingService] => 
+                                    [ListingTerms] => 
+                                    [LivingArea] => ********
+                                    [LivingAreaSource] => ********
+                                    [LivingAreaUnits] => ********
+                                    [LockBoxLocation] => 
+                                    [LockBoxNumber] => 
+                                    [LockBoxSerialNumber] => 
+                                    [LockBoxType] => 
+                                    [Longitude] => -105.227167
+                                    [LotDimensionsSource] => 
+                                    [LotFeatures] => ********
+                                    [LotSizeAcres] => 0
+                                    [LotSizeArea] => 0
+                                    [LotSizeDimensions] => ********
+                                    [LotSizeSource] => 
+                                    [LotSizeSquareFeet] => 0
+                                    [LotSizeUnits] => 
+                                    [MLSAreaMajor] => Francisco Villa West
+                                    [MLSAreaMinor] => Francisco Villa West
+                                    [MainLevelBathrooms] => 
+                                    [MainLevelBedrooms] => 
+                                    [MaintenanceExpense] => 
+                                    [MajorChangeTimestamp] => 2021-04-09T17:39:19Z
+                                    [MajorChangeType] => Price Reduced
+                                    [Make] => 
+                                    [ManagerExpense] => 
+                                    [MapCoordinate] => 
+                                    [MapCoordinateSource] => 
+                                    [MapURL] => 
+                                    [MiddleOrJuniorSchool] => ********
+                                    [MiddleOrJuniorSchoolDistrict] => ********
+                                    [MlsId] => 20101117190901935008000000
+                                    [MlsStatus] => Active
+                                    [MlsStatusInformation] => ********
+                                    [MobileDimUnits] => 
+                                    [MobileHomeRemainsYN] => 
+                                    [MobileLength] => ********
+                                    [MobileWidth] => ********
+                                    [Model] => 
+                                    [ModificationTimestamp] => 2021-05-25T17:42:29Z
+                                    [MonthlyGrossScheduledIncome] => 
+                                    [NetOperatingIncome] => 
+                                    [NewConstructionYN] => ********
+                                    [NewTaxesExpense] => 
+                                    [NumberOfFullTimeEmployees] => 
+                                    [NumberOfLots] => 
+                                    [NumberOfPads] => 
+                                    [NumberOfPartTimeEmployees] => 
+                                    [NumberOfSeparateElectricMeters] => 
+                                    [NumberOfSeparateGasMeters] => 
+                                    [NumberOfSeparateWaterMeters] => 
+                                    [NumberOfUnitsBuildings] => 
+                                    [NumberOfUnitsInCommunity] => 
+                                    [NumberOfUnitsLeased] => 
+                                    [NumberOfUnitsMoMo] => 
+                                    [NumberOfUnitsTotal] => ********
+                                    [NumberOfUnitsVacant] => 
+                                    [OccupantName] => 
+                                    [OccupantPhone] => 
+                                    [OccupantType] => 
+                                    [OffMarketDate] => ********
+                                    [OffMarketTimestamp] => ********
+                                    [OnMarketContractDate] => 2021-04-08
+                                    [OnMarketDate] => 2021-04-08T17:25:25Z
+                                    [OnMarketTimestamp] => ********
+                                    [OpenParkingSpaces] => 
+                                    [OpenParkingYN] => 
+                                    [OperatingExpense] => 
+                                    [OperatingExpenseIncludes] => 
+                                    [OriginalEntryTimestamp] => ********
+                                    [OriginalListPrice] => 260000
+                                    [OriginalOnMarketTimestamp] => 2021-04-08T17:25:25Z
+                                    [OriginatingSystemID] => FLEXMLS_PVR
+                                    [OriginatingSystemKey] => 20210405184841802635000000
+                                    [OriginatingSystemName] => 
+                                    [OtherEquipment] => 
+                                    [OtherExpense] => 
+                                    [OtherParking] => 
+                                    [OtherStructures] => 
+                                    [OwnerName] => 
+                                    [OwnerPays] => 
+                                    [OwnerPhone] => 
+                                    [Ownership] => 
+                                    [OwnershipType] => 
+                                    [ParcelNumber] => 06701000100372300002000000
+                                    [ParkManagerName] => 
+                                    [ParkManagerPhone] => 
+                                    [ParkName] => ********
+                                    [ParkingFeatures] => ********
+                                    [ParkingTotal] => 
+                                    [PastureArea] => 
+                                    [PatioAndPorchFeatures] => ********
+                                    [PendingDate] => ********
+                                    [PendingTimestamp] => ********
+                                    [PermitAVMInternetYN] => 
+                                    [PermitAddressInternetYN] => 
+                                    [PermitCommentsInternetYN] => 
+                                    [PermitInternetYN] => 1
+                                    [PestControlExpense] => 
+                                    [PetsAllowed] => 
+                                    [PhotosChangeTimestamp] => 2021-05-22T17:29:41Z
+                                    [PhotosCount] => 37
+                                    [PhotosTotal] => 
+                                    [PoolExpense] => 
+                                    [PoolFeatures] => ********
+                                    [PoolYN] => ********
+                                    [Possession] => 
+                                    [PossibleUse] => ********
+                                    [PostalCity] => 
+                                    [PostalCode] => ********
+                                    [PostalCodePlus4] => ********
+                                    [PreviousListPrice] => ********
+                                    [PreviousRentOrLeasePrice] => 
+                                    [PriceChangeTimestamp] => 2021-04-09T17:39:19Z
+                                    [PrivateRemarks] => ********
+                                    [ProfessionalManagementExpense] => 
+                                    [PropertyAttachedYN] => ********
+                                    [PropertyClass] => Residential
+                                    [PropertyCondition] => 
+                                    [PropertySubType] => ********
+                                    [PropertyType] => A
+                                    [PropertyTypeLabel] => Condos
+                                    [ProviderId] => 
+                                    [ProviderName] => 
+                                    [PublicRemarks] => LIFESTYLE AT ITS BEST IN FLUVIAL VALLARTA! This new condominium complex of only 13 units distributed in 4 levels, enjoys the comfort of a modern building with the feel of a boutique concept and displays style with inspiring interiors and good quality finishings. Stunning upon arrival, the manicured landscaped gardens and striking facade invites further exploration and set the expectation of what lies beyond.  Unit 301 has 1,679 sq ft construction and offers you a functional and interactive open plan with spacious and bright spaces since your arrival. Entertaining has never been easier with an open plan living and dining area making it an attractive space filled with natural light. Official price in MXN: $4,2960,000 pesos.
+                                    [PublicSurveyRange] => 
+                                    [PublicSurveySection] => 
+                                    [PublicSurveyTownship] => 
+                                    [PurchaseContractDate] => ********
+                                    [RVParkingDimensions] => 
+                                    [RangeArea] => 
+                                    [RentControlYN] => 
+                                    [RentIncludes] => ********
+                                    [RentOrLeaseDate] => 
+                                    [RentOrLeasePrice] => 
+                                    [RentOrLeasePriceCurrency] => 
+                                    [RentOrLeasePriceFrequency] => 
+                                    [ReserveListPrice] => 
+                                    [RetsStatus] => 
+                                    [RoadFrontageType] => 
+                                    [RoadResponsibility] => 
+                                    [RoadSurfaceType] => 
+                                    [Roof] => ********
+                                    [RoomsDescription] => 
+                                    [RoomsList] => 
+                                    [RoomsTotal] => 0
+                                    [SchoolDistrict] => 
+                                    [SeatingCapacity] => 
+                                    [SecurityFeatures] => ********
+                                    [SemiPrivateRemarks] => 
+                                    [SeniorCommunityYN] => ********
+                                    [SerialU] => 
+                                    [SerialX] => 
+                                    [SerialXX] => 
+                                    [Sewer] => 
+                                    [ShowingContactName] => 
+                                    [ShowingContactType] => 
+                                    [ShowingInstructions] => ********
+                                    [ShowingPhoneExtension] => 
+                                    [ShowingPhoneNumber] => 
+                                    [SignOnPropertyYN] => 
+                                    [Skirt] => ********
+                                    [SoldExclusive] => ********
+                                    [SourceSystemID] => FLEXMLS_PVR
+                                    [SourceSystemKey] => 20210405184841802635000000
+                                    [SourceSystemName] => 
+                                    [SpaFeatures] => ********
+                                    [SpaYN] => 
+                                    [SpecialLicenses] => 
+                                    [SpecialListingConditions] => ********
+                                    [StandardStatus] => Active
+                                    [StateOrProvince] => JA
+                                    [StateRegion] => 
+                                    [StatusChangeDate] => ********
+                                    [StatusChangeDateTime] => 
+                                    [StatusChangeTimestamp] => 
+                                    [Stories] => 1
+                                    [StoriesTotal] => ********
+                                    [StreetAdditionalInfo] => Riviera Fluvial
+                                    [StreetDirPrefix] => ********
+                                    [StreetDirSuffix] => 301
+                                    [StreetName] => Río Papaloapan
+                                    [StreetNumber] => 231
+                                    [StreetNumberInteger] => 231
+                                    [StreetNumberModifier] => 
+                                    [StreetSuffix] => 
+                                    [StreetSuffixModifier] => ********
+                                    [StructuralAreaUnits] => 
+                                    [StructureType] => 
+                                    [SubAgencyCompensation] => ********
+                                    [SubAgencyCompensationType] => 
+                                    [SubdivisionCode] => 
+                                    [SubdivisionName] => Fluvial
+                                    [Supplement] => 2 large bedrooms and two bathrooms with dressing room. Front terrace of 97 sq ft ideal for relaxation and family gatherings. A wide range of additional features include: Underground parking, rooftop terrace, rooftop pool, elevator, reception, lobby, 24/7 security. *Prices subject to change without prior notice.
+
+¡ESTILO DE VIDA A SU MÁXIMA EXPRESIÓN EN FLUVIAL VALLARTA! Este condominio nuevo de tan solo 13 unidades distribuidas en 4 niveles, disfruta de la comodidad de un edificio moderno con la sensación de un concepto boutique y muestra un estilo con interiores inspiradores y buenos acabados. Impresionante a su llegada, los cuidados jardines y la llamativa fachada invitan a una mayor exploración y establecen la expectativa de lo que hay más allá. La Unidad 301 de 156m2 le ofrece un plano abierto con una distribución funcional e interactiva con amplios y luminosos espacios desde su llegada. Entretener nunca ha sido tan fácil con una amplia área de sala y comedor de plano abierta convirtiéndola en un espacio atractivo y lleno de luz natural. Siendo el corazón de la casa, la elegante cocina integral con cubiertas de cuarzo. 2 amplias recámaras y dos baños con vestidor. Terraza de 9m2 al frente ideal para descanso y reuniones familiares. Precio oficial en MXN: $4,960,000 pesos. 
+Una amplia gama de características adicionales incluyen: estacionamiento subterráneo, terraza rooftop, alberca en rooftop, elevador, recepción, lobby, seguridad 24/7. *Precios sujetos a cambio sin previo aviso.
+                                    [SuppliesExpense] => 
+                                    [SyndicateTo] => 
+                                    [SyndicationListingReferenceUrl] => 
+                                    [SyndicationRemarks] => 
+                                    [TaxAmount] => ********
+                                    [TaxAmountFrequency] => 
+                                    [TaxAssessedValue] => 
+                                    [TaxBlock] => 
+                                    [TaxBookNumber] => 
+                                    [TaxExemptions] => 
+                                    [TaxLegalDescription] => ********
+                                    [TaxLot] => 
+                                    [TaxMapNumber] => 
+                                    [TaxOtherAssessmentAmount] => 
+                                    [TaxOtherAssessmentAmountFrequency] => 
+                                    [TaxParcelLetter] => 
+                                    [TaxStatusCurrent] => 
+                                    [TaxTractOrSection] => 
+                                    [TaxYear] => 
+                                    [Telephone] => 
+                                    [TenantPays] => 
+                                    [Topography] => ********
+                                    [TotalActualRent] => 
+                                    [TotalAnnualOperatingExpenses] => 
+                                    [TotalBathroomsSource] => Computed
+                                    [Township] => 
+                                    [TransactionBrokerCompensation] => 
+                                    [TransactionBrokerCompensationType] => 
+                                    [TrashExpense] => 
+                                    [UnitNumber] => ********
+                                    [UnitsFurnished] => 
+                                    [UnparsedAddress] => 231 Río Papaloapan 301, Riviera Fluvial, Puerto Vallarta, JA
+                                    [UnparsedFirstLineAddress] => 231 Río Papaloapan 301, Riviera Fluvial
+                                    [Utilities] => ********
+                                    [VOWAddressDisplay] => 
+                                    [VOWAddressDisplayYN] => 1
+                                    [VOWAutomatedValuationDisplay] => 
+                                    [VOWAutomatedValuationDisplayYN] => 1
+                                    [VOWConsumerComment] => 
+                                    [VOWConsumerCommentYN] => 1
+                                    [VOWEntireListingDisplay] => 
+                                    [VOWEntireListingDisplayYN] => 1
+                                    [VacancyAllowance] => 
+                                    [VacancyAllowanceRate] => 
+                                    [Vegetation] => 
+                                    [VideosChangeTimestamp] => 2021-04-09T17:39:33Z
+                                    [VideosCount] => 1
+                                    [View] => ********
+                                    [ViewYN] => 
+                                    [WalkScore] => 
+                                    [WaterBodyName] => ********
+                                    [WaterFrontYN] => ********
+                                    [WaterHeaterFuel] => 
+                                    [WaterSewerExpense] => 
+                                    [WaterSource] => 
+                                    [WaterfrontFeatures] => 
+                                    [WaterfrontYN] => 
+                                    [WindowFeatures] => ********
+                                    [WithdrawDate] => ********
+                                    [WithdrawnTimestamp] => 
+                                    [WoodedArea] => 
+                                    [WorkmansCompensationExpense] => 
+                                    [YardAndGroundsFeatures] => 
+                                    [YearBuilt] => 
+                                    [YearBuiltDetails] => 
+                                    [YearBuiltEffective] => 
+                                    [YearBuiltSource] => 
+                                    [YearEstablished] => 
+                                    [YearsCurrentOwner] => 
+                                    [Zoning] => ********
+                                    [ZoningDescription] => 
+                                    [GreenBuildingVerificationType] => ********
+                                    [UnitTypeType] => ********
+                                    [ShowingRequirements] => 
+                                    [OriginatingSystemListingId] => 20524
+                                    [ListAgentLoginId] => ********
+                                    [ListOfficeLoginId] => ********
+                                    [BuyerAgentLoginId] => ********
+                                    [BuyerOfficeLoginId] => ********
+                                    [CoListAgentLoginId] => ********
+                                    [CoListOfficeLoginId] => ********
+                                    [CoBuyerAgentLoginId] => ********
+                                    [CoBuyerOfficeLoginId] => ********
+                                    [RoomType] => Array
+                                        (
+                                        )
+
+                                    [VirtualToursCount] => 0
+                                    [OpenHousesCount] => 0
+                                    [SparkModificationTimestamp] => 2021-05-25T17:42:29Z
+                                    [ListingKeyNumeric] => ********
+                                    [Documents] => Array
+                                        (
+                                        )
+
+                                    [ListAgentCellPhone] => ********
+                                    [ListAgentDirectPhone] => 
+                                    [ListAgentEmail] => ofuentes@bayside.com.mx
+                                    [ListAgentFax] => ********
+                                    [ListAgentFirstName] => Osmar René
+                                    [ListAgentLastName] => de la Torre
+                                    [ListAgentMarketingName] => Osmar R. Fuentes - Bayside
+                                    [ListAgentMemberType] => Associate
+                                    [ListAgentMiddleName] => ********
+                                    [ListAgentViewName] => Osmar R. Fuentes - Bayside
+                                    [ListAgentOfficePhone] => 322-224-8876
+                                    [ListAgentOfficePhoneExt] => ********
+                                    [ListAgentPager] => ********
+                                    [ListAgentPreferredPhone] => 322-120-4625
+                                    [ListAgentPreferredPhoneExt] => ********
+                                    [ListAgentStateLicense] => ********
+                                    [ListAgentTeamKey] => 
+                                    [ListAgentTollFreePhone] => ********
+                                    [ListAgentURL] => ********
+                                    [ListAgentVoiceMail] => ********
+                                    [ListAgentVoiceMailExt] => ********
+                                    [CoListAgentMarketingName] => 
+                                    [CoListAgentMemberType] => 
+                                    [CoListAgentViewName] => 
+                                    [CoListAgentTeamKey] => 
+                                    [CoListAgentUserType] => 
+                                    [BuyerAgentMarketingName] => 
+                                    [BuyerAgentMemberType] => 
+                                    [BuyerAgentViewName] => 
+                                    [BuyerAgentTeamKey] => 
+                                    [CoBuyerAgentMarketingName] => ********
+                                    [CoBuyerAgentMemberType] => ********
+                                    [CoBuyerAgentViewName] => ********
+                                    [CoBuyerAgentTeamKey] => ********
+                                    [CoBuyerAgentUserType] => ********
+                                    [ListOfficeEmail] => info@bayside.com.mx
+                                    [ListOfficeFax] => ********
+                                    [ListOfficeMarketingName] => Bayside Properties
+                                    [ListOfficeName] => Bayside Properties
+                                    [ListOfficeViewName] => Bayside Properties
+                                    [ListOfficeOfficeType] => 
+                                    [ListOfficePhone] => 322-224-8876
+                                    [ListOfficePhoneExt] => ********
+                                    [ListOfficeTeamKey] => 
+                                    [ListOfficeURL] => http://www.bayside.com.mx/
+                                    [CoListOfficeMarketingName] => 
+                                    [CoListOfficeViewName] => 
+                                    [CoListOfficeOfficeType] => 
+                                    [CoListOfficeTeamKey] => 
+                                    [CoListOfficeUserType] => 
+                                    [BuyerOfficeMarketingName] => 
+                                    [BuyerOfficeViewName] => 
+                                    [BuyerOfficeOfficeType] => 
+                                    [BuyerOfficeTeamKey] => 
+                                    [CoBuyerOfficeMarketingName] => ********
+                                    [CoBuyerOfficeViewName] => ********
+                                    [CoBuyerOfficeOfficeType] => ********
+                                    [CoBuyerOfficeTeamKey] => ********
+                                    [CoBuyerOfficeUserType] => ********
+                                    [ListingUpdateTimestamp] => 2021-05-25T17:42:29Z
+                                )
+
+                            [CustomFields] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Main] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [General Description] => Array
+                                                                (
+                                                                    [0] => Array
+                                                                        (
+                                                                            [Total M2 const] => 159
+                                                                        )
+
+                                                                    [1] => Array
+                                                                        (
+                                                                            [Primary View] => Street
+                                                                        )
+
+                                                                    [2] => Array
+                                                                        (
+                                                                            [Secondary View] => Garden
+                                                                        )
+
+                                                                    [3] => Array
+                                                                        (
+                                                                            [# Units in Develop] => 13
+                                                                        )
+
+                                                                    [4] => Array
+                                                                        (
+                                                                            [Total Baths] => 2
+                                                                        )
+
+                                                                    [5] => Array
+                                                                        (
+                                                                            [Furnished] => Unfurnished
+                                                                        )
+
+                                                                    [6] => Array
+                                                                        (
+                                                                            [Pet Friendly] => Yes
+                                                                        )
+
+                                                                    [7] => Array
+                                                                        (
+                                                                            [Style] => 1 Level
+                                                                        )
+
+                                                                    [8] => Array
+                                                                        (
+                                                                            [Floor Number] => 3
+                                                                        )
+
+                                                                    [9] => Array
+                                                                        (
+                                                                            [Parking] => Parking on Property
+                                                                        )
+
+                                                                    [10] => Array
+                                                                        (
+                                                                            [Pre-construction] => No
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                    [1] => Array
+                                                        (
+                                                            [Contract Data] => Array
+                                                                (
+                                                                    [0] => Array
+                                                                        (
+                                                                            [Financing] => Developer Financing
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                    [2] => Array
+                                                        (
+                                                            [Location, Taxes & Legal] => Array
+                                                                (
+                                                                    [0] => Array
+                                                                        (
+                                                                            [Adjacent to Federal Zone] => No
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                    [3] => Array
+                                                        (
+                                                            [Unit Details] => Array
+                                                                (
+                                                                    [0] => Array
+                                                                        (
+                                                                            [Deck/Terrace] => 1
+                                                                        )
+
+                                                                    [1] => Array
+                                                                        (
+                                                                            [Roof Top Terrace] => 1
+                                                                        )
+
+                                                                    [2] => Array
+                                                                        (
+                                                                            [Balcony] => 1
+                                                                        )
+
+                                                                    [3] => Array
+                                                                        (
+                                                                            [Parking on Property] => Yes
+                                                                        )
+
+                                                                    [4] => Array
+                                                                        (
+                                                                            [Type of Parking] => Assigned
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                    [4] => Array
+                                                        (
+                                                            [Road Type] => Array
+                                                                (
+                                                                    [0] => Array
+                                                                        (
+                                                                            [Paved] => 1
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                    [5] => Array
+                                                        (
+                                                            [Common Amenities] => Array
+                                                                (
+                                                                    [0] => Array
+                                                                        (
+                                                                            [24 Hours Security] => 1
+                                                                        )
+
+                                                                    [1] => Array
+                                                                        (
+                                                                            [Elevator] => 1
+                                                                        )
+
+                                                                    [2] => Array
+                                                                        (
+                                                                            [Garden] => 1
+                                                                        )
+
+                                                                    [3] => Array
+                                                                        (
+                                                                            [Pool] => 1
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                    [6] => Array
+                                                        (
+                                                            [Title] => Array
+                                                                (
+                                                                    [0] => Array
+                                                                        (
+                                                                            [Escritura] => 1
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                    [7] => Array
+                                                        (
+                                                            [Connectivity] => Array
+                                                                (
+                                                                    [0] => Array
+                                                                        (
+                                                                            [Internet] => Infinitum
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                    [8] => Array
+                                                        (
+                                                            [Walls] => Array
+                                                                (
+                                                                    [0] => Array
+                                                                        (
+                                                                            [Concrete] => 1
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                    [9] => Array
+                                                        (
+                                                            [Construction.] => Array
+                                                                (
+                                                                    [0] => Array
+                                                                        (
+                                                                            [Flooring Type] => Ceramic tile
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                    [10] => Array
+                                                        (
+                                                            [Electricity] => Array
+                                                                (
+                                                                    [0] => Array
+                                                                        (
+                                                                            [CFE] => 1
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                    [11] => Array
+                                                        (
+                                                            [Devices] => Array
+                                                                (
+                                                                    [0] => Array
+                                                                        (
+                                                                            [Air Conditioning] => Central
+                                                                        )
+
+                                                                    [1] => Array
+                                                                        (
+                                                                            [Heating] => 1
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                    [12] => Array
+                                                        (
+                                                            [Water] => Array
+                                                                (
+                                                                    [0] => Array
+                                                                        (
+                                                                            [City] => 1
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                    [13] => Array
+                                                        (
+                                                            [Sewage] => Array
+                                                                (
+                                                                    [0] => Array
+                                                                        (
+                                                                            [City] => 1
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                    [14] => Array
+                                                        (
+                                                            [HOA Info] => Array
+                                                                (
+                                                                    [0] => Array
+                                                                        (
+                                                                            [24-hr Security] => 1
+                                                                        )
+
+                                                                    [1] => Array
+                                                                        (
+                                                                            [Common Area Electric] => 1
+                                                                        )
+
+                                                                    [2] => Array
+                                                                        (
+                                                                            [Common Area Maintenance] => 1
+                                                                        )
+
+                                                                    [3] => Array
+                                                                        (
+                                                                            [Dues per month pesos] => 5090
+                                                                        )
+
+                                                                    [4] => Array
+                                                                        (
+                                                                            [Garbage Pickup] => 1
+                                                                        )
+
+                                                                    [5] => Array
+                                                                        (
+                                                                            [Pool Maintenance] => 1
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                    [15] => Array
+                                                        (
+                                                            [Location] => Array
+                                                                (
+                                                                    [0] => Array
+                                                                        (
+                                                                            [City] => 1
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [LastCachedTimestamp] => 
+                            [DisplayCompliance] => Array
+                                (
+                                    [View] => Detail
+                                    [IDXLogo] => Array
+                                        (
+                                            [Type] => Uri
+                                            [LogoUri] => https://cdn.photos.sparkplatform.com/pvr/20161019233658090414000000.jpg
+                                        )
+
+                                    [IDXLogoSmall] => Array
+                                        (
+                                            [Type] => Uri
+                                            [LogoUri] => https://cdn.photos.sparkplatform.com/pvr/20161019233658090414000000.jpg
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [Pagination] => Array
+                (
+                    [TotalRows] => 922
+                    [PageSize] => 1
+                    [CurrentPage] => 2
+                    [TotalPages] => 922
+                )
+
+            [Success] => 1
+        )
+
+)
