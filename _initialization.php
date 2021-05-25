@@ -33,8 +33,8 @@ $Parameters = array(
 	//'_orderby'		=> '-OriginalOnMarketTimestamp',
 );
 		
-	// $file_name = $folder_path . "debug.txt";
-	$file_name = "E:/php/apiclient1/apiclient/debug.txt";
+	$file_name = $folder_path . "debug.txt";
+	// $file_name = "E:/php/apiclient1/apiclient/debug.txt";
     $debug = fopen($file_name,'w') or die("can't create / open file");	
 	
 	$TotalPages = 1;

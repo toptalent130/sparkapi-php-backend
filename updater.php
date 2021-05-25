@@ -37,8 +37,8 @@ require_once("_functions.php");
 define('MaxListings', false, true);   //Change 10 to false after testing
 
 
-// $file_name = $folder_path . "final.simple.xml";
-$file_name = "E:/php/apiclient1/apiclient/final.simple.xml";
+$file_name = $folder_path . "final.simple.xml";
+// $file_name = "E:/php/apiclient1/apiclient/final.simple.xml";
 
 $xml_handle = fopen($file_name,'w') or die("can't create / open file");
 
